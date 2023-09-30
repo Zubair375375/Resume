@@ -1,0 +1,30 @@
+.red{
+    background-color: whites;
+    color: white;
+}
+.grey{
+    background-color: rgb(29, 29, 29);
+    width: 500px;
+    height: 1600px;
+    padding: 25px;
+    margin: 50px;
+}
+.green{
+    color: lawngreen;
+    font-size: xx-large;
+}
+.yellow{
+    color: yellow;
+    font-size: medium;
+}
+.undrln{
+    text-decoration: underline;
+    font-size: medium;
+}
+.brdr{
+    border: 2px solid lawngreen;
+    width: 400px;
+    height: 1570px;
+    padding: auto;
+    margin: auto;
+}
